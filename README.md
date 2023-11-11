@@ -1,2 +1,1 @@
-# ahj-env
-Домашнее задание к занятию "1. Рабочее окружение"
+![CI](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/web.yml/badge.svg)
